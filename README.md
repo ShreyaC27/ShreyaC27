@@ -28,7 +28,7 @@
 ###
 
 <p align="left">
-  I'm Shreya Nagaraj<br><br>
+  I'm Shreya Chakli Nagaraj<br><br>
   - 🔭 I’m currently working as a Research Assistant at USC, where I'm enhancing health insights using LLMs and Agentic AI to improve accuracy and reduce hallucinations in health data analysis.<br>
   - 📚 I'm currently learning more about applied natural language processing and machine learning techniques to further my expertise in AI-driven solutions.<br>
   - ⚡ In my free time, I enjoy working on full-stack development projects, exploring new technologies, and contributing to open-source communities. I also enjoy learning about the latest advancements in cloud computing and DevOps.<br>
